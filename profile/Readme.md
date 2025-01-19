@@ -4,3 +4,4 @@
 * https://t.me/SerbianFlowBot
 * https://t.me/SpanishFlowBot
 * https://t.me/PolishFlowBot
+* https://t.me/PortugueseFlowBot
