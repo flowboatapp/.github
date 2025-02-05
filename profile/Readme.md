@@ -7,3 +7,4 @@
 * https://t.me/SpanishFlowBot
 * https://t.me/PolishFlowBot
 * https://t.me/PortugueseFlowBot
+* https://t.me/TatarFlowBot
